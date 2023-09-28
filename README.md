@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/sakibulkabir-risat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakibulkabir risat" height="30" width="40" /></a>
+<a href="www.linkedin.com/sakibulkabir-risat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakibulkabir risat" height="30" width="40" /></a>
 <a href="[https://stackoverflow.com/users/sakibulkabir risat](https://stackoverflow.com/users/21081022/sakibul-kabir-risat)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sakibulkabir risat" height="30" width="40" /></a>
 <a href="[https://fb.com/šẫḱiḃuĺ ḱẫḃiř řišẫt](https://www.facebook.com/profile.php?id=100068629787714)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="šẫḱiḃuĺ ḱẫḃiř řišẫt" height="30" width="40" /></a>
 <a href="[https://instagram.com/sakibul_kabir_risat](https://www.instagram.com/sakibul_kabir_risat/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakibul_kabir_risat" height="30" width="40" /></a>
